@@ -1,0 +1,4 @@
+¡Hola mundo de Archivo2!
+<script>JavaScript</script>
+<pyscript>Pyscript</pyscript>
+cahcnhito feliz
